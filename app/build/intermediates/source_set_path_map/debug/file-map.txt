@@ -1,0 +1,8 @@
+com.example.game.app-pngs-0 /storage/emulated/0/AndroidIDEProjects/Game/app/build/generated/res/pngs/debug
+com.example.game.app-resValues-1 /storage/emulated/0/AndroidIDEProjects/Game/app/build/generated/res/resValues/debug
+com.example.game.app-rs-2 /storage/emulated/0/AndroidIDEProjects/Game/app/build/generated/res/rs/debug
+com.example.game.app-mergeDebugResources-3 /storage/emulated/0/AndroidIDEProjects/Game/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.game.app-mergeDebugResources-4 /storage/emulated/0/AndroidIDEProjects/Game/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.game.app-merged_res-5 /storage/emulated/0/AndroidIDEProjects/Game/app/build/intermediates/merged_res/debug
+com.example.game.app-app-6 /storage/emulated/0/AndroidIDEProjects/Game/app/res
+com.example.game.app-debug-7 /storage/emulated/0/AndroidIDEProjects/Game/app/src/debug/res
